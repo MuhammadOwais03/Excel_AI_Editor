@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openpyxl
+pandas
+networkx
+python-multipart
+pydantic
+pymongo             ~=4.13
+python-dotenv
